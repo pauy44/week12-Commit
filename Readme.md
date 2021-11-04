@@ -1,2 +1,1 @@
-Initial commit
-King Mongkut's Institute of Techlonogy Ladkrabang
+# King Mongkut's Institute of Technology Ladkrabang
