@@ -20,4 +20,3 @@
 | 12345678 |  |  |
 | 12345688 |  |  |
 
-Edit Readme.md and commit with -m" commit Readme.md"
